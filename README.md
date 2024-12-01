@@ -1,2 +1,1 @@
-# MemeFi-Coin-Auto-Clicker
-MemeFi-Coin-Auto-Clicker
+# Gemz-Auto-Clicker-Powerful
